@@ -1,0 +1,13 @@
+[project]
+name = "turing-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.3",
+    "pydantic>=2.11.9",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "tqdm>=4.67.1",
+]
